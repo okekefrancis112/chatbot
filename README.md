@@ -1,4 +1,3 @@
-
 # Coffee Shop Customer Service Chatbot 🚀☕️
 
 Welcome to the Coffee Shop Customer Service Chatbot project! This repository contains the code, resources, and instructions to build an AI-powered chatbot designed to enhance customer experiences in a coffee shop app. Leveraging the power of LLMs (Large Language models), Natural Language Processing (NLP), and RunPod's infrastructure, this chatbot can assist with taking orders, answering detailed menu queries, and providing personalized product recommendations—all within a React Native mobile app.
@@ -64,18 +63,18 @@ The React Native Coffee Shop App serves as the front-end interface for customers
 # 📂 Directory Structure
 ```bash
 ├── coffee_shop_customer_service_chatbot
-│   ├── coffee_shop_app_folder # Contains React Native app code   
+│   ├── coffee_shop_app_folder # Contains React Native app code
 │   ├── python_code
 │       ├── API/               # Chatbot API for agent-based system
-│       ├── dataset/           # Dataset for training recommendation engine    
-│       ├── products/          # Product data (names, prices, descriptions, images)   
-│       ├── build_vector_database.ipynb             # Builds vector database for RAG model   
-│       ├── firebase_uploader.ipynb                 # Uploads products to Firebase    
-│       ├── recommendation_engine_training.ipynb    # Trains recommendation engine 
+│       ├── dataset/           # Dataset for training recommendation engine
+│       ├── products/          # Product data (names, prices, descriptions, images)
+│       ├── build_vector_database.ipynb             # Builds vector database for RAG model
+│       ├── firebase_uploader.ipynb                 # Uploads products to Firebase
+│       ├── recommendation_engine_training.ipynb    # Trains recommendation engine
 ```
 
 ## 🚀 Getting Started
-Each folder has their own getting started section. So this way we can deploy the front end, backend and setup individually. 
+Each folder has their own getting started section. So this way we can deploy the front end, backend and setup individually.
 
 ## 🔗 Refrence Links
 * [RunPod](https://rebrand.ly/Runpod-Abdullah): RunPod Official Site - Infrastructure for deploying and scaling machine learning models.
